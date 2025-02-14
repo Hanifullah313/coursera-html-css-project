@@ -1,2 +1,12 @@
-# coursera-html-css-project
-This is my final project for the "HTML &amp; CSS in Depth" Coursera course. It is a responsive restaurant landing page designed using HTML, CSS, and animations. The project includes a navigation menu, interactive cards, and a typewriter effect for the title.
+
+# Little Lemon Website 🍋
+
+This is the final project for the **"HTML & CSS in Depth"** Coursera course.  
+It is a **fully responsive landing page** designed using **HTML & CSS**.
+
+## 🔥 Features
+- 📌 Responsive navigation bar
+- 🎨 Interactive cards with hover effects
+- ✍ Typewriter effect for the title
+- 🌙 Dark & light mode (if added)
+- 📱 Mobile-friendly design
