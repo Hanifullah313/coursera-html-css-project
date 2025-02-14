@@ -8,5 +8,4 @@ It is a **fully responsive landing page** designed using **HTML & CSS**.
 - 📌 Responsive navigation bar
 - 🎨 Interactive cards with hover effects
 - ✍ Typewriter effect for the title
-- 🌙 Dark & light mode (if added)
 - 📱 Mobile-friendly design
